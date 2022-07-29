@@ -31,7 +31,7 @@ Just open index.html in your browser and play.
 Only HTML, CSS and JS.
 ## Screenshots
 
-![App Screenshot](./img/screenshot.png)
+![App Screenshot](img/screenshot.png)
 
 
 ## Deployment
