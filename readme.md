@@ -36,7 +36,7 @@ Only HTML, CSS and JS.
 
 ## Deployment
 
-the web app is deployed using Netlify. Live Link URL : https://splendorous-fudge-edf422.netlify.app
+the web app is deployed using Netlify. Live Link URL : https://snake-game-by-pv-bankhede.netlify.app
 
 
 
